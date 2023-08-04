@@ -39,15 +39,7 @@ Before running the application, ensure you have the following installed:
 
 4. Open your web browser and navigate to `http://localhost:3000` to access the ChatGPT Improvement Website.
 
-## Usage
 
-1. Access the website using the provided URL.
-
-2. On the homepage, you will see a file upload form and a list of discussions.
-
-3. To participate in the discussions, use the file upload form to attach any relevant files (optional) and type your message in the input box.
-
-4. Click the "Upload" button to post your message. Your message will be added to the list of discussions.
 
 
 ## Contributing
