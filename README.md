@@ -49,10 +49,6 @@ Before running the application, ensure you have the following installed:
 
 4. Click the "Upload" button to post your message. Your message will be added to the list of discussions.
 
-## File Upload
-
-- To upload files, click the "Choose File" button and select the file from your local machine.
-- Supported file formats include .txt, .pdf, .doc, .docx, .png, .jpg, .jpeg, .gif, etc.
 
 ## Contributing
 
