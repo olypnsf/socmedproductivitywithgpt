@@ -56,4 +56,4 @@ If you have any questions or suggestions, feel free to reach out to us at mindme
 
 ---
 
-Thank you for your interest in improving ChatGPT! We appreciate your contributions to this project and look forward to seeing your valuable insights and ideas. Let's make GPT-based language models even better together!
+Thank you for your interest in this repo!
