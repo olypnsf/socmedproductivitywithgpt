@@ -1,7 +1,7 @@
 # socmedproductivitywithgpt
 # ChatGPT Improvement Website with Node.js
 
-This project is a web application that allows users to participate in discussions to improve ChatGPT. Users can post their suggestions, concerns, and ideas related to GPT-based language models. The application is built using Node.js, Express, and Multer for handling file uploads.
+This project is a web application that allows users to participate in discussions to improve ChatGPT. Users can post their suggestions, concerns, and ideas related to GPT-based language models. The application is built using Node.js, Express, To handle users particapate without losing the text when refreshing or leaving the page. And do not store in local storage.
 
 ## Features
 
