@@ -22,7 +22,7 @@ Before running the application, ensure you have the following installed:
 
    ```bash
    git clone https://github.com/your_username/ChatGPT-Improvement.git
-   cd ChatGPT-Improvement
+   cd socmedproductivitywithgpt
    ```
 
 2. Install the dependencies:
