@@ -7,7 +7,7 @@ This project is a web application that allows users to participate in discussion
 
 - Anonymous users can post discussions.
 - Uploaded files are stored on the server for future reference.
-- Responsive design for a seamless experience on various devices.
+- API coming soon
 
 ## Prerequisites
 
